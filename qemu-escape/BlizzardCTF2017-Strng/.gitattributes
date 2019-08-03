@@ -1,0 +1,2 @@
+qemu-system-x86_64.i64 filter=lfs diff=lfs merge=lfs -text
+strng.zip filter=lfs diff=lfs merge=lfs -text
