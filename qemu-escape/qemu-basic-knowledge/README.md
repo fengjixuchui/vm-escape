@@ -2,7 +2,11 @@
 
 * edu.c
 	
-	Description: a edu pci device, which we can learn basic pmio ,mmio and dma from.
+	Description: an official edu pci device, which we can learn basic pmio ,mmio and dma from.
+
+* edu.txt
+	
+	Description: the official description of edu.c.
 
 * launch.sh
 
