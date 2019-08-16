@@ -25,3 +25,11 @@ some interesting qemu-escape game
 	finished date: 2019.08.07
 
 	writeup: None
+
+* DefconQuals-2018-EC3
+
+	description: EC3 pci device `ooo` with mmio, uaf vuln with no symbols.
+
+	finished date: 2019.08.16
+
+	writeup: None
