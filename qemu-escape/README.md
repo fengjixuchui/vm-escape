@@ -53,3 +53,13 @@ some interesting qemu-escape game
 	writeup: None
 
 	officail link: None
+
+* qwb-preliminary-2019-qwct
+
+	description: pci device `qwb`, out-of-bound vuln in crypto algorithm.
+
+	finished date: 2019.08.28
+
+	writeup: None
+
+	officail link: None
