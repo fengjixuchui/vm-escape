@@ -73,3 +73,13 @@ some interesting qemu-escape game
 	writeup: None
 
 	officail link: None
+
+* cve-2015-5165_and_cve-2015-7504
+
+	description: cve-2015-5165 info leak in rtl8139 and cve-2015-7504 heap overflow in pncet.
+
+	finished date: 2019.09.17
+
+	writeup: None
+
+	officail link: [QEMU Case Study](http://www.phrack.org/papers/vm-escape-qemu-case-study.html)
