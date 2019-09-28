@@ -83,3 +83,13 @@ some interesting qemu-escape game
 	writeup: None
 
 	officail link: [QEMU Case Study](http://www.phrack.org/papers/vm-escape-qemu-case-study.html)
+
+* cve-2019-6778
+
+	description: heap overflow in slirp module.
+
+	finished date: 2019.09.28
+
+	writeup: None
+
+	officail link: [qemu-vm-escape](https://github.com/Kira-cxy/qemu-vm-escape/)
