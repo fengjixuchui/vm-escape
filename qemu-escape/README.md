@@ -1,6 +1,8 @@
 # qemu-escape
 
-some interesting qemu-escape game
+some interesting qemu-escape game.
+
+writeup will be released at [blog](https://ray-cp.github.io).
 
 * BlizzardCTF2017-Strng
 	
@@ -17,6 +19,8 @@ some interesting qemu-escape game
 	description: Some basic knowledge for qemu, such as address transformation and basic pci device(edu.c).
 
 	related link: None
+
+	writeup: [qemu-pwn-基础知识](https://ray-cp.github.io/archivers/qemu-pwn-basic-knowledge)
 
 * hitb-gsec-2017-babyqemu
 
