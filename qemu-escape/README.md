@@ -2,7 +2,7 @@
 
 some interesting qemu-escape game.
 
-writeup will be released at [blog](https://ray-cp.github.io).
+writeup will be released in chinese at [blog](https://ray-cp.github.io).
 
 * BlizzardCTF2017-Strng
 	
