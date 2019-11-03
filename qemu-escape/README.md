@@ -10,7 +10,7 @@ writeup will be released in chinese at [blog](https://ray-cp.github.io).
 
 	finished date: 2019.08.04
 
-	writeup: None
+	writeup: [qemu pwn-Blizzard CTF 2017 Strng writeup](https://ray-cp.github.io/archivers/qemu-pwn-Blizzard-CTF-2017-Strng-writeup)
 
 	officail link: [blizzardctf2017](https://github.com/rcvalle/blizzardctf2017)
 
@@ -28,7 +28,7 @@ writeup will be released in chinese at [blog](https://ray-cp.github.io).
 
 	finished date: 2019.08.07
 
-	writeup: [qemu pwn-Blizzard CTF 2017 Strng writeup](https://ray-cp.github.io/archivers/qemu-pwn-Blizzard-CTF-2017-Strng-writeup)
+	writeup: None
 
 * DefconQuals-2018-EC3
 
