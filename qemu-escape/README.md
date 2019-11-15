@@ -36,7 +36,7 @@ writeup will be released in chinese at [blog](https://ray-cp.github.io).
 
 	finished date: 2019.08.16
 
-	writeup: None
+	writeup: [qemu pwn-hitb gesc 2017 babyqemu writeup](https://ray-cp.github.io/archivers/qemu-pwn-hitb-gesc-2017-babyqemu-writeup)
 
 * seccon-2018-q-escape
 
