@@ -2,7 +2,7 @@
 
 some interesting qemu-escape game.
 
-writeup will be released in chinese at [blog](https://ray-cp.github.io).
+writeup will be published in chinese on [zxsq](https://t.zsxq.com/zby76AE) at first, and then on my [blog](http://ray-cp.github.io/) after a while.
 
 * BlizzardCTF2017-Strng
 	
@@ -28,7 +28,7 @@ writeup will be released in chinese at [blog](https://ray-cp.github.io).
 
 	finished date: 2019.08.07
 
-	writeup: None
+	writeup: [qemu pwn-hitb gesc 2017 babyqemu writeup](https://ray-cp.github.io/archivers/qemu-pwn-hitb-gesc-2017-babyqemu-writeup)
 
 * DefconQuals-2018-EC3
 
@@ -36,7 +36,7 @@ writeup will be released in chinese at [blog](https://ray-cp.github.io).
 
 	finished date: 2019.08.16
 
-	writeup: [qemu pwn-hitb gesc 2017 babyqemu writeup](https://ray-cp.github.io/archivers/qemu-pwn-hitb-gesc-2017-babyqemu-writeup)
+	writeup: [qemu-pwn-DefconQuals-2018-EC3](https://ray-cp.github.io/archivers/qemu-pwn-DefconQuals-2018-EC3)
 
 * seccon-2018-q-escape
 
@@ -44,7 +44,7 @@ writeup will be released in chinese at [blog](https://ray-cp.github.io).
 
 	finished date: 2019.08.21
 
-	writeup: None
+	writeup: [https://t.zsxq.com/NbQbYji](https://t.zsxq.com/NbQbYji)
 
 	officail link: [q-escape](https://github.com/SECCON/SECCON2018_online_CTF/tree/master/Pwn/q-escape)
 
