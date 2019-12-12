@@ -56,7 +56,7 @@ writeup will be published in chinese on [zxsq](https://t.zsxq.com/zby76AE) at fi
 
 	finished date: 2019.08.24
 
-	writeup: None
+	writeup: [https://t.zsxq.com/7qb2nyF](https://t.zsxq.com/7qb2nyF)
 
 	officail link: None
 
