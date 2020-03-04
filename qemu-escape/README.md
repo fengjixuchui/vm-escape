@@ -2,8 +2,6 @@
 
 some interesting qemu-escape game.
 
-writeup will be published in chinese on [zxsq](https://t.zsxq.com/zby76AE) at first, and then on my [blog](http://ray-cp.github.io/) after a while.
-
 * BlizzardCTF2017-Strng
 	
 	fescription: Sombra True Random Number Generator (STRNG) is a QEMU-based challenge I developed for Blizzard CTF 2017. The challenge was to achieve a VM escape from a QEMU-based VM and capture the flag located at /root/flag on the host.
@@ -40,13 +38,13 @@ writeup will be published in chinese on [zxsq](https://t.zsxq.com/zby76AE) at fi
 
 * seccon-2018-q-escape
 
-	description: EC3 pci device `cydf-vga`, out-of-bound vuln with vga device.
+  description: EC3 pci device `cydf-vga`, out-of-bound vuln with vga device.
 
-	finished date: 2019.08.21
+  finished date: 2019.08.21
 
-	writeup: [https://t.zsxq.com/NbQbYji](https://t.zsxq.com/NbQbYji)
+  writeup: [qemu-pwn-seccon-2018-q-escape](https://ray-cp.github.io/archivers/qemu-pwn-seccon-2018-q-escape)	
 
-	officail link: [q-escape](https://github.com/SECCON/SECCON2018_online_CTF/tree/master/Pwn/q-escape)
+  officail link: [q-escape](https://github.com/SECCON/SECCON2018_online_CTF/tree/master/Pwn/q-escape)
 
 * xnuca-2019-vxee
 
@@ -54,7 +52,7 @@ writeup will be published in chinese on [zxsq](https://t.zsxq.com/zby76AE) at fi
 
 	finished date: 2019.08.24
 
-	writeup: None
+	writeup: [qemu-pwn-xnuca-2019-vexx](https://ray-cp.github.io/archivers/qemu-pwn-xnuca-2019-vexx)
 
 	officail link: None
 
