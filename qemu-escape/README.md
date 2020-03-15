@@ -62,7 +62,7 @@ some interesting qemu-escape game.
 
 	finished date: 2019.08.28
 
-	writeup: None
+	writeup: [qemu-pwn 强网杯2019 两道qemu逃逸题writeup](https://ray-cp.github.io/archivers/qemu-pwn-%E5%BC%BA%E7%BD%91%E6%9D%AF2019-%E4%B8%A4%E9%81%93qemu%E9%80%83%E9%80%B8%E9%A2%98writeup)
 
 	officail link: None
 
@@ -72,7 +72,7 @@ some interesting qemu-escape game.
 
 	finished date: 2019.08.29
 
-	writeup: None
+	writeup: [qemu-pwn 强网杯2019 两道qemu逃逸题writeup](https://ray-cp.github.io/archivers/qemu-pwn-%E5%BC%BA%E7%BD%91%E6%9D%AF2019-%E4%B8%A4%E9%81%93qemu%E9%80%83%E9%80%B8%E9%A2%98writeup)
 
 	officail link: None
 
@@ -82,7 +82,7 @@ some interesting qemu-escape game.
 
 	finished date: 2019.09.17
 
-	writeup: None
+	writeup: [qemu-pwn-cve-2015-5165信息泄露漏洞分析](https://ray-cp.github.io/archivers/qemu-pwn-cve-2015-5165%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90)
 
 	officail link: [QEMU Case Study](http://www.phrack.org/papers/vm-escape-qemu-case-study.html)
 
